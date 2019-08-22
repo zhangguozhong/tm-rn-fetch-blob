@@ -1,0 +1,74 @@
+[
+    {
+        "merged": "/Users/zhangguozhong1/Desktop/app/EDC5_ePro/node_modules/rn-fetch-blob/android/build/intermediates/res/merged/release/anim/abc_grow_fade_in_from_bottom.xml",
+        "source": "/Users/zhangguozhong1/.gradle/caches/transforms-1/files-1.1/appcompat-1.0.0.aar/4ab65c6e87f747161a6cddbd128721b2/res/anim/abc_grow_fade_in_from_bottom.xml"
+    },
+    {
+        "merged": "/Users/zhangguozhong1/Desktop/app/EDC5_ePro/node_modules/rn-fetch-blob/android/build/intermediates/res/merged/release/anim/abc_slide_in_top.xml",
+        "source": "/Users/zhangguozhong1/.gradle/caches/transforms-1/files-1.1/appcompat-1.0.0.aar/4ab65c6e87f747161a6cddbd128721b2/res/anim/abc_slide_in_top.xml"
+    },
+    {
+        "merged": "/Users/zhangguozhong1/Desktop/app/EDC5_ePro/node_modules/rn-fetch-blob/android/build/intermediates/res/merged/release/anim/abc_tooltip_enter.xml",
+        "source": "/Users/zhangguozhong1/.gradle/caches/transforms-1/files-1.1/appcompat-1.0.0.aar/4ab65c6e87f747161a6cddbd128721b2/res/anim/abc_tooltip_enter.xml"
+    },
+    {
+        "merged": "/Users/zhangguozhong1/Desktop/app/EDC5_ePro/node_modules/rn-fetch-blob/android/build/intermediates/res/merged/release/anim/abc_fade_in.xml",
+        "source": "/Users/zhangguozhong1/.gradle/caches/transforms-1/files-1.1/appcompat-1.0.0.aar/4ab65c6e87f747161a6cddbd128721b2/res/anim/abc_fade_in.xml"
+    },
+    {
+        "merged": "/Users/zhangguozhong1/Desktop/app/EDC5_ePro/node_modules/rn-fetch-blob/android/build/intermediates/res/merged/release/anim/abc_tooltip_exit.xml",
+        "source": "/Users/zhangguozhong1/.gradle/caches/transforms-1/files-1.1/appcompat-1.0.0.aar/4ab65c6e87f747161a6cddbd128721b2/res/anim/abc_tooltip_exit.xml"
+    },
+    {
+        "merged": "/Users/zhangguozhong1/Desktop/app/EDC5_ePro/node_modules/rn-fetch-blob/android/build/intermediates/res/merged/release/anim/catalyst_slide_down.xml",
+        "source": "/Users/zhangguozhong1/.gradle/caches/transforms-1/files-1.1/jetified-react-native-0.59.4.aar/d155a89c8fca684dd2b5692534ff17b9/res/anim/catalyst_slide_down.xml"
+    },
+    {
+        "merged": "/Users/zhangguozhong1/Desktop/app/EDC5_ePro/node_modules/rn-fetch-blob/android/build/intermediates/res/merged/release/anim/abc_slide_out_bottom.xml",
+        "source": "/Users/zhangguozhong1/.gradle/caches/transforms-1/files-1.1/appcompat-1.0.0.aar/4ab65c6e87f747161a6cddbd128721b2/res/anim/abc_slide_out_bottom.xml"
+    },
+    {
+        "merged": "/Users/zhangguozhong1/Desktop/app/EDC5_ePro/node_modules/rn-fetch-blob/android/build/intermediates/res/merged/release/anim/abc_shrink_fade_out_from_bottom.xml",
+        "source": "/Users/zhangguozhong1/.gradle/caches/transforms-1/files-1.1/appcompat-1.0.0.aar/4ab65c6e87f747161a6cddbd128721b2/res/anim/abc_shrink_fade_out_from_bottom.xml"
+    },
+    {
+        "merged": "/Users/zhangguozhong1/Desktop/app/EDC5_ePro/node_modules/rn-fetch-blob/android/build/intermediates/res/merged/release/anim/abc_popup_enter.xml",
+        "source": "/Users/zhangguozhong1/.gradle/caches/transforms-1/files-1.1/appcompat-1.0.0.aar/4ab65c6e87f747161a6cddbd128721b2/res/anim/abc_popup_enter.xml"
+    },
+    {
+        "merged": "/Users/zhangguozhong1/Desktop/app/EDC5_ePro/node_modules/rn-fetch-blob/android/build/intermediates/res/merged/release/anim/abc_slide_in_bottom.xml",
+        "source": "/Users/zhangguozhong1/.gradle/caches/transforms-1/files-1.1/appcompat-1.0.0.aar/4ab65c6e87f747161a6cddbd128721b2/res/anim/abc_slide_in_bottom.xml"
+    },
+    {
+        "merged": "/Users/zhangguozhong1/Desktop/app/EDC5_ePro/node_modules/rn-fetch-blob/android/build/intermediates/res/merged/release/anim/catalyst_fade_in.xml",
+        "source": "/Users/zhangguozhong1/.gradle/caches/transforms-1/files-1.1/jetified-react-native-0.59.4.aar/d155a89c8fca684dd2b5692534ff17b9/res/anim/catalyst_fade_in.xml"
+    },
+    {
+        "merged": "/Users/zhangguozhong1/Desktop/app/EDC5_ePro/node_modules/rn-fetch-blob/android/build/intermediates/res/merged/release/anim/catalyst_push_up_in.xml",
+        "source": "/Users/zhangguozhong1/.gradle/caches/transforms-1/files-1.1/jetified-react-native-0.59.4.aar/d155a89c8fca684dd2b5692534ff17b9/res/anim/catalyst_push_up_in.xml"
+    },
+    {
+        "merged": "/Users/zhangguozhong1/Desktop/app/EDC5_ePro/node_modules/rn-fetch-blob/android/build/intermediates/res/merged/release/anim/catalyst_slide_up.xml",
+        "source": "/Users/zhangguozhong1/.gradle/caches/transforms-1/files-1.1/jetified-react-native-0.59.4.aar/d155a89c8fca684dd2b5692534ff17b9/res/anim/catalyst_slide_up.xml"
+    },
+    {
+        "merged": "/Users/zhangguozhong1/Desktop/app/EDC5_ePro/node_modules/rn-fetch-blob/android/build/intermediates/res/merged/release/anim/catalyst_push_up_out.xml",
+        "source": "/Users/zhangguozhong1/.gradle/caches/transforms-1/files-1.1/jetified-react-native-0.59.4.aar/d155a89c8fca684dd2b5692534ff17b9/res/anim/catalyst_push_up_out.xml"
+    },
+    {
+        "merged": "/Users/zhangguozhong1/Desktop/app/EDC5_ePro/node_modules/rn-fetch-blob/android/build/intermediates/res/merged/release/anim/catalyst_fade_out.xml",
+        "source": "/Users/zhangguozhong1/.gradle/caches/transforms-1/files-1.1/jetified-react-native-0.59.4.aar/d155a89c8fca684dd2b5692534ff17b9/res/anim/catalyst_fade_out.xml"
+    },
+    {
+        "merged": "/Users/zhangguozhong1/Desktop/app/EDC5_ePro/node_modules/rn-fetch-blob/android/build/intermediates/res/merged/release/anim/abc_popup_exit.xml",
+        "source": "/Users/zhangguozhong1/.gradle/caches/transforms-1/files-1.1/appcompat-1.0.0.aar/4ab65c6e87f747161a6cddbd128721b2/res/anim/abc_popup_exit.xml"
+    },
+    {
+        "merged": "/Users/zhangguozhong1/Desktop/app/EDC5_ePro/node_modules/rn-fetch-blob/android/build/intermediates/res/merged/release/anim/abc_fade_out.xml",
+        "source": "/Users/zhangguozhong1/.gradle/caches/transforms-1/files-1.1/appcompat-1.0.0.aar/4ab65c6e87f747161a6cddbd128721b2/res/anim/abc_fade_out.xml"
+    },
+    {
+        "merged": "/Users/zhangguozhong1/Desktop/app/EDC5_ePro/node_modules/rn-fetch-blob/android/build/intermediates/res/merged/release/anim/abc_slide_out_top.xml",
+        "source": "/Users/zhangguozhong1/.gradle/caches/transforms-1/files-1.1/appcompat-1.0.0.aar/4ab65c6e87f747161a6cddbd128721b2/res/anim/abc_slide_out_top.xml"
+    }
+]

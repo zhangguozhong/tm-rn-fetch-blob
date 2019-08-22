@@ -1,0 +1,18 @@
+[
+    {
+        "merged": "/Users/zhangguozhong1/Desktop/app/EDC5_ePro/node_modules/rn-fetch-blob/android/build/intermediates/res/merged/release/layout-v21/notification_template_custom_big.xml",
+        "source": "/Users/zhangguozhong1/.gradle/caches/transforms-1/files-1.1/core-1.0.0.aar/c5c6839bedcb73b454d19ef17377432c/res/layout-v21/notification_template_custom_big.xml"
+    },
+    {
+        "merged": "/Users/zhangguozhong1/Desktop/app/EDC5_ePro/node_modules/rn-fetch-blob/android/build/intermediates/res/merged/release/layout-v21/notification_action.xml",
+        "source": "/Users/zhangguozhong1/.gradle/caches/transforms-1/files-1.1/core-1.0.0.aar/c5c6839bedcb73b454d19ef17377432c/res/layout-v21/notification_action.xml"
+    },
+    {
+        "merged": "/Users/zhangguozhong1/Desktop/app/EDC5_ePro/node_modules/rn-fetch-blob/android/build/intermediates/res/merged/release/layout-v21/notification_template_icon_group.xml",
+        "source": "/Users/zhangguozhong1/.gradle/caches/transforms-1/files-1.1/core-1.0.0.aar/c5c6839bedcb73b454d19ef17377432c/res/layout-v21/notification_template_icon_group.xml"
+    },
+    {
+        "merged": "/Users/zhangguozhong1/Desktop/app/EDC5_ePro/node_modules/rn-fetch-blob/android/build/intermediates/res/merged/release/layout-v21/notification_action_tombstone.xml",
+        "source": "/Users/zhangguozhong1/.gradle/caches/transforms-1/files-1.1/core-1.0.0.aar/c5c6839bedcb73b454d19ef17377432c/res/layout-v21/notification_action_tombstone.xml"
+    }
+]

@@ -1,0 +1,10 @@
+[
+    {
+        "merged": "/Users/zhangguozhong1/Desktop/app/EDC5_ePro/node_modules/rn-fetch-blob/android/build/intermediates/res/merged/release/xml/rn_dev_preferences.xml",
+        "source": "/Users/zhangguozhong1/.gradle/caches/transforms-1/files-1.1/jetified-react-native-0.59.4.aar/d155a89c8fca684dd2b5692534ff17b9/res/xml/rn_dev_preferences.xml"
+    },
+    {
+        "merged": "/Users/zhangguozhong1/Desktop/app/EDC5_ePro/node_modules/rn-fetch-blob/android/build/intermediates/res/merged/release/xml/provider_paths.xml",
+        "source": "/Users/zhangguozhong1/Desktop/app/EDC5_ePro/node_modules/rn-fetch-blob/android/src/main/res/xml/provider_paths.xml"
+    }
+]

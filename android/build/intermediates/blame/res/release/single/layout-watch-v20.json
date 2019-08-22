@@ -1,0 +1,10 @@
+[
+    {
+        "merged": "/Users/zhangguozhong1/Desktop/app/EDC5_ePro/node_modules/rn-fetch-blob/android/build/intermediates/res/merged/release/layout-watch-v20/abc_alert_dialog_button_bar_material.xml",
+        "source": "/Users/zhangguozhong1/.gradle/caches/transforms-1/files-1.1/appcompat-1.0.0.aar/4ab65c6e87f747161a6cddbd128721b2/res/layout-watch-v20/abc_alert_dialog_button_bar_material.xml"
+    },
+    {
+        "merged": "/Users/zhangguozhong1/Desktop/app/EDC5_ePro/node_modules/rn-fetch-blob/android/build/intermediates/res/merged/release/layout-watch-v20/abc_alert_dialog_title_material.xml",
+        "source": "/Users/zhangguozhong1/.gradle/caches/transforms-1/files-1.1/appcompat-1.0.0.aar/4ab65c6e87f747161a6cddbd128721b2/res/layout-watch-v20/abc_alert_dialog_title_material.xml"
+    }
+]

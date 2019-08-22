@@ -1,0 +1,36 @@
+{
+    "logs": [
+        {
+            "outputFile": "/Users/zhangguozhong1/Desktop/app/EDC5_ePro/node_modules/rn-fetch-blob/android/build/intermediates/incremental/mergeReleaseResources/merged.dir/values-hdpi-v4/values-hdpi-v4.xml",
+            "map": [
+                {
+                    "source": "/Users/zhangguozhong1/.gradle/caches/transforms-1/files-1.1/appcompat-1.0.0.aar/4ab65c6e87f747161a6cddbd128721b2/res/values-hdpi-v4/values-hdpi-v4.xml",
+                    "from": {
+                        "startLines": "2",
+                        "startColumns": "4",
+                        "startOffsets": "55",
+                        "endLines": "6",
+                        "endColumns": "13",
+                        "endOffsets": "327"
+                    }
+                }
+            ]
+        },
+        {
+            "outputFile": "/Users/zhangguozhong1/Desktop/app/EDC5_ePro/node_modules/rn-fetch-blob/android/build/intermediates/res/merged/release/values-hdpi-v4/values-hdpi-v4.xml",
+            "map": [
+                {
+                    "source": "/Users/zhangguozhong1/.gradle/caches/transforms-1/files-1.1/appcompat-1.0.0.aar/4ab65c6e87f747161a6cddbd128721b2/res/values-hdpi-v4/values-hdpi-v4.xml",
+                    "from": {
+                        "startLines": "2",
+                        "startColumns": "4",
+                        "startOffsets": "55",
+                        "endLines": "6",
+                        "endColumns": "13",
+                        "endOffsets": "327"
+                    }
+                }
+            ]
+        }
+    ]
+}
